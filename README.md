@@ -2,7 +2,7 @@
 This is my Linear Data &amp; Scheduling Algorithms Project 1. 
 
 :mortar_board: **Implements the following:**
-    1. Doubly Linked Lists
+    \n1. Doubly Linked Lists
     2. Stacks
     3. Queues
 
