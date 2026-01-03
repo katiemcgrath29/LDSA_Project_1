@@ -11,5 +11,10 @@ This is my Linear Data &amp; Scheduling Algorithms Project 1.
     <br/> originally struggled with the Java syntax, but after a couple Youtube tutorials,
     <br/>I got the hang of it.
     <br/>I also originally struggled with the schemas needed for the Doubly Linked List.
+<br/>
+<br/> :page_facing_up: **Notes:**
+<br/> - I have added the Assignment Brief for reference.
+<br/> - The .java files must be added to a package named 'assignment1' to work.
+
 
 
