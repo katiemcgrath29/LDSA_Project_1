@@ -14,7 +14,7 @@ This is my Linear Data &amp; Scheduling Algorithms Project 1.
 <br/>
 <br/> :page_facing_up: **Notes:**
 <br/> - I have added the Assignment Brief for reference.
-<br/> - The .java files must be added to a package named 'assignment1' to work.
+<br/> - The .java files must be added to a package named 'assignment1' before running.
 
 
 
